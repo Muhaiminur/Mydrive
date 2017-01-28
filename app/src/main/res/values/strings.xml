@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mydrive</string>
+    <string name="download_progress">Download Progress:</string>
+</resources>
